@@ -35,3 +35,9 @@ C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\obj\De
 C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\bin\Debug\net9.0\publish\web.config
+C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\bin\Debug\net9.0\publish\appsettings.Development.json
+C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\bin\Debug\net9.0\publish\appsettings.json
+C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\bin\Debug\net9.0\publish\ChessGame.Api.deps.json
+C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\bin\Debug\net9.0\publish\ChessGame.Api.runtimeconfig.json
+C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\bin\Debug\net9.0\publish\ChessGame.Api.staticwebassets.endpoints.json
