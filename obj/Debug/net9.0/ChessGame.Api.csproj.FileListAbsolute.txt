@@ -32,3 +32,6 @@ C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\obj\De
 C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\obj\Debug\net9.0\ChessGame.Api.genruntimeconfig.cache
 C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\obj\Debug\net9.0\ref\ChessGame.Api.dll
 C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\obj\Debug\net9.0\ChessGame.Api.sourcelink.json
+C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\terre\Desktop\Other Projects\C# projects\.NET Core\ChessGame.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
