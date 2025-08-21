@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "erklgT0263rSIa0mx1UUz5rZJmafdg4ItKKhUiRH0fo=",
+  "Source": "ChessGame.Api",
+  "BasePath": "_content/ChessGame.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

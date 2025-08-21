@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NK106w0Vgzw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\terre\\Desktop\\Other Projects\\C# projects\\.NET Core\\ChessGame.Api\\ChessGame.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\terre\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\terre\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
